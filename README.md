@@ -20,3 +20,9 @@ Composer
 Commenter - Votes - Comment content
 
 ... For top 20 comments, roughly
+
+
+View counts
+---------------------
+
+Views were sampled at about 9pm BST on 20th July 2020.
